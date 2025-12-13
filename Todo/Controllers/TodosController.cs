@@ -4,6 +4,7 @@ using Todo.Models;
 using Todo.Mappers;
 using System.Text.Json;
 using Todo.Services;
+using Todo.Filters;
 
 namespace Todo.Controllers
 {
@@ -20,6 +21,9 @@ namespace Todo.Controllers
         {
             return View();
         }
+        //[TypeFilter(typeof(AuthentificationFilter))]  can#t use notation dericte en utlise en cas de implimentation du Ifilter 
+
+        [AuthentificationFilter] // aplique en temp de classe filte et herite au Attribute 
         public IActionResult Add()
         {
             return View();

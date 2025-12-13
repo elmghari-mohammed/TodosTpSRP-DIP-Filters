@@ -243,7 +243,6 @@ C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\scopedcss\bundle\Todo.styles.css
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\scopedcss\projectbundle\Todo.bundle.scp.css
-C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\ep4rr7mo0i-b9sayid5wm.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\fc7h4jd2t2-61n19gt1b8.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\nsc2yllrpk-xtxxf3hu2r.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\9vreofb19j-bqjiyaj88i.gz
@@ -305,8 +304,6 @@ C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\uxm8v4ouqu-2z0ns
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\ij5nrqr2to-muycvpuwrr.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\usmbicgi7i-87fc7y1x7t.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\976icz1h4c-mlv21k5csn.gz
-C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\moquh6v1my-xjuof8f33l.gz
-C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\ou81y6sylq-xjuof8f33l.gz
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\staticwebassets.build.json
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\staticwebassets.development.json
@@ -318,3 +315,7 @@ C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\refint\Todo.dll
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\Todo.pdb
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\Todo.genruntimeconfig.cache
 C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\ref\Todo.dll
+C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\Todo.sourcelink.json
+C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\ep4rr7mo0i-zcl5qjo79w.gz
+C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\moquh6v1my-0lck5n4pqx.gz
+C:\4eme annee\ASP.Net\Tps\Todo\Todo\obj\Debug\net9.0\compressed\ou81y6sylq-0lck5n4pqx.gz

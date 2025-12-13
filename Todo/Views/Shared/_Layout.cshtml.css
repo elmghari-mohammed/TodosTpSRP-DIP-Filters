@@ -46,3 +46,27 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+/* Thème sombre simple */
+[data-bs-theme="dark"] {
+    background-color: #121212;
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .navbar {
+    background-color: #1a1a1a !important;
+    border-color: #333;
+
+}
+
+[data-bs-theme="dark"] footer {
+    background-color: #1a1a1a;
+    border-color: #333;
+    color: #ccc;
+
+}
+
+/* Icône thème */
+#themeToggle {
+    font-size: 1.2rem;
+    color: inherit;
+}

@@ -46,3 +46,27 @@ button.accept-policy[b-83yctkgmq0] {
   white-space: nowrap;
   line-height: 60px;
 }
+/* Thème sombre simple */
+[data-bs-theme="dark"][b-83yctkgmq0] {
+    background-color: #121212;
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .navbar[b-83yctkgmq0] {
+    background-color: #1a1a1a !important;
+    border-color: #333;
+
+}
+
+[data-bs-theme="dark"] footer[b-83yctkgmq0] {
+    background-color: #1a1a1a;
+    border-color: #333;
+    color: #ccc;
+
+}
+
+/* Icône thème */
+#themeToggle[b-83yctkgmq0] {
+    font-size: 1.2rem;
+    color: inherit;
+}
