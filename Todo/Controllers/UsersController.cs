@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Todo.Filters;
 using Todo.ViewModels;
 
 namespace Todo.Controllers
 {
+
     public class UsersController : Controller
     {
         public IActionResult Index()
@@ -10,7 +12,6 @@ namespace Todo.Controllers
             return View(); // Retourne login.cshtml
         }
 
-        // GET: /Users/Login - pas nécessaire si Index est déjà login
         public IActionResult Login()
         {
             return View(); // Retourne login.cshtml
@@ -28,9 +29,8 @@ namespace Todo.Controllers
             // Vérifier les identifiants
             if (vm.Username == "admin" && vm.Password == "admin")
             {
-                // Créer session d'authentification
                 HttpContext.Session.SetString("authentifie", "");
-                // Rediriger vers Todos
+                HttpContext.Session.SetString("username", vm.Username);
                 return RedirectToAction("Index", "Todos");
             }
             else
@@ -40,7 +40,7 @@ namespace Todo.Controllers
                 return View(vm);
             }
         }
-
+        [AuthentificationFilter]
         public IActionResult Logout()
         {
             HttpContext.Session.Remove("authentifie");

@@ -1,1 +1,35 @@
-﻿<h1>Liste des Todos</h1>
+﻿@model List<Todo.Models.TodoModel>
+
+<h1>Liste des Todos</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>Aucun todo pour le moment.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Libellé</th>
+                <th>Description</th>
+                <th>Date Limite</th>
+                <th>Statut</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var todo in Model)
+            {
+                <tr>
+                    <td>@todo.Libelle</td>
+                    <td>@todo.Description</td>
+                    <td>@todo.DateLimite.ToString("dd/MM/yyyy")</td>
+                    <td>@todo.Statut</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Add" class="btn btn-primary">Ajouter un Todo</a>
+<a href="/Users/Logout" class="btn btn-secondary">Déconnexion</a>

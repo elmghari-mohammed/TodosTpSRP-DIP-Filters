@@ -11,5 +11,15 @@ namespace Todo.Services
             string chaine = JsonSerializer.Serialize(obj);
             context.Session.SetString(key, chaine);
         }
+
+        public T Get<T>(string key, HttpContext context)
+        {
+            var json = context.Session.GetString(key);
+            if (!string.IsNullOrEmpty(json))
+            {
+                return JsonSerializer.Deserialize<T>(json);
+            }
+            return default;
+        }
     }
 }

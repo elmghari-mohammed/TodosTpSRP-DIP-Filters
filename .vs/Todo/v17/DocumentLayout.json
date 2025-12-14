@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\filters\\logsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\filters\\logsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +19,24 @@
       "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\filters\\authentificationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|c:\\4eme annee\\asp.net\\tps\\todo\\todo\\filters\\themefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8825B9E-2F87-4151-973B-1D48559E555D}|Todo\\Todo.csproj|solutionrelative:todo\\filters\\themefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,13 +62,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISessionManagerService.cs",
+              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Services\\ISessionManagerService.cs",
+              "RelativeDocumentMoniker": "Todo\\Services\\ISessionManagerService.cs",
+              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Services\\ISessionManagerService.cs",
+              "RelativeToolTip": "Todo\\Services\\ISessionManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:51:57.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionManagerService.cs",
+              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Services\\SessionManagerService.cs",
+              "RelativeDocumentMoniker": "Todo\\Services\\SessionManagerService.cs",
+              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Services\\SessionManagerService.cs",
+              "RelativeToolTip": "Todo\\Services\\SessionManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:51:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Todo\\Views\\Todos\\Index.cshtml",
+              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Todos\\Index.cshtml",
+              "RelativeToolTip": "Todo\\Views\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T19:50:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogsFilter.cs",
+              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\LogsFilter.cs",
+              "RelativeDocumentMoniker": "Todo\\Filters\\LogsFilter.cs",
+              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\LogsFilter.cs",
+              "RelativeToolTip": "Todo\\Filters\\LogsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:24:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemeFilter.cs",
+              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\ThemeFilter.cs",
+              "RelativeDocumentMoniker": "Todo\\Filters\\ThemeFilter.cs",
+              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\ThemeFilter.cs",
+              "RelativeToolTip": "Todo\\Filters\\ThemeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:00:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Program.cs",
               "RelativeDocumentMoniker": "Todo\\Program.cs",
               "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Program.cs",
               "RelativeToolTip": "Todo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T17:10:06.039Z",
               "EditorCaption": ""
@@ -88,101 +141,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Todo\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Todo\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-13T17:06:09.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Todo\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Todo\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-13T17:05:08.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Todo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Todo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T15:31:45.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Todo\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Todo\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T15:31:13.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Todo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Todo\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T15:31:10.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Todo\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Todo\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T19:30:00.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserLoginVM.cs",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\ViewModels\\UserLoginVM.cs",
-              "RelativeDocumentMoniker": "Todo\\ViewModels\\UserLoginVM.cs",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\ViewModels\\UserLoginVM.cs",
-              "RelativeToolTip": "Todo\\ViewModels\\UserLoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T19:26:45.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Todo\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Todo\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAewCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T19:26:39.46Z",
               "EditorCaption": ""
@@ -195,32 +159,20 @@
               "RelativeDocumentMoniker": "Todo\\Controllers\\TodosController.cs",
               "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Controllers\\TodosController.cs",
               "RelativeToolTip": "Todo\\Controllers\\TodosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T19:37:38.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Users\\Login.cshtml",
-              "RelativeDocumentMoniker": "Todo\\Views\\Users\\Login.cshtml",
-              "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Views\\Users\\Login.cshtml",
-              "RelativeToolTip": "Todo\\Views\\Users\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T19:33:10.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AuthentificationFilter.cs",
               "DocumentMoniker": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\AuthentificationFilter.cs",
               "RelativeDocumentMoniker": "Todo\\Filters\\AuthentificationFilter.cs",
               "ToolTip": "C:\\4eme annee\\ASP.Net\\Tps\\Todo\\Todo\\Filters\\AuthentificationFilter.cs",
               "RelativeToolTip": "Todo\\Filters\\AuthentificationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T13:22:40.9Z",
               "EditorCaption": ""

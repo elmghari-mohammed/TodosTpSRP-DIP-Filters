@@ -8,6 +8,7 @@ using Todo.Filters;
 
 namespace Todo.Controllers
 {
+    [AuthentificationFilter]
     public class TodosController : Controller
     {
         ISessionManagerService session;
@@ -19,11 +20,11 @@ namespace Todo.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var todos = session.Get<List<TodoModel>>("todos", HttpContext)
+                       ?? new List<TodoModel>();
+            return View(todos);
         }
-        //[TypeFilter(typeof(AuthentificationFilter))]  can#t use notation dericte en utlise en cas de implimentation du Ifilter 
-
-        [AuthentificationFilter] // aplique en temp de classe filte et herite au Attribute 
+ 
         public IActionResult Add()
         {
             return View();

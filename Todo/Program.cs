@@ -1,6 +1,13 @@
+using Todo.Filters;
 using Todo.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllersWithViews(options =>
+{
+    options.Filters.Add<ThemeFilter>();    // Pour le thème
+    options.Filters.Add<LogsFilter>();     // Pour les logs
+});
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
